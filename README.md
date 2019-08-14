@@ -1,3 +1,4 @@
 # NgNono
-hello world ,this is my first text.
-my name is nono. good nigth.
+----
+你好世界，这是我的第一篇文章。 
+我的名字是诺诺。晚安。
